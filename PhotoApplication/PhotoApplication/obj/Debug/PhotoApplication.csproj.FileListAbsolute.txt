@@ -1,0 +1,16 @@
+C:\inetpub\wwwroot\PhotoApplication\PhotoApplication\bin\PhotoApplication.dll
+C:\inetpub\wwwroot\PhotoApplication\PhotoApplication\bin\PhotoApplication.pdb
+C:\inetpub\wwwroot\PhotoApplication\PhotoApplication\obj\Debug\PhotoApplication.dll
+C:\inetpub\wwwroot\PhotoApplication\PhotoApplication\obj\Debug\PhotoApplication.pdb
+C:\inetpub\wwwroot\PhotoApplication\PhotoApplication\bin\MySql.Data.dll
+C:\inetpub\wwwroot\PhotoApplication\PhotoApplication\bin\mscorlib.dll
+C:\inetpub\wwwroot\PhotoApplication\PhotoApplication\obj\Debug\PhotoApplication.csprojResolveAssemblyReference.cache
+C:\wwwroot\PhotoApplication\PhotoApplication\bin\PhotoApplication.dll
+C:\wwwroot\PhotoApplication\PhotoApplication\bin\PhotoApplication.pdb
+C:\wwwroot\PhotoApplication\PhotoApplication\obj\Debug\PhotoApplication.dll
+C:\wwwroot\PhotoApplication\PhotoApplication\obj\Debug\PhotoApplication.pdb
+C:\wwwroot\PhotoApplication\PhotoApplication\bin\MySql.Data.dll
+C:\wwwroot\PhotoApplication\PhotoApplication\bin\PhotoApplication.dll.config
+C:\wwwroot\PhotoApplication\PhotoApplication\obj\Debug\PhotoApplication.csproj.AssemblyReference.cache
+C:\wwwroot\PhotoApplication\PhotoApplication\obj\Debug\PhotoApplication.csproj.CoreCompileInputs.cache
+C:\wwwroot\PhotoApplication\PhotoApplication\obj\Debug\PhotoApplication.csproj.CopyComplete
